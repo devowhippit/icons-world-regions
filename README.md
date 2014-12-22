@@ -3,6 +3,9 @@ world.regions
 
 A low resolution set of AI and SVG vector files for creating art and icons of the world's regions. Created for [Quadrant.io](http://www.quadrant.io "Quadrant.io").
 
+
+![Africa](svg/wr.africa.svg?raw=true)
+
 <img src="https://github.com/devowhippit/world.regions/raw/master/svg/wr.africa.svg" alt="Africa" title="Africa" /><br>
 <img src="https://github.com/devowhippit/world.regions/raw/master/svg/wr.asia.svg" alt="Asia" title="Asia" /><br>
 <img src="https://github.com/devowhippit/world.regions/raw/master/svg/wr.central_america.svg" alt="Central America" title="Central America" /><br>
