@@ -18,4 +18,4 @@ Preview                                                         | Region
 
 Source
 ------
-[Source](http://www.amcharts.com/svg-maps/?map=world "AmCharts Free SVG Maps").
+[AmCharts Free SVG Maps](http://www.amcharts.com/svg-maps/?map=world "AmCharts Free SVG Maps")
