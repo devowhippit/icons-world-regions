@@ -5,7 +5,7 @@ A low resolution set of AI and SVG vector files for creating art and icons of th
 
 <table>
     <tr>
-        <td>...</td>
+        <td>![Africa](png wr.scaled_africa.png?raw=true)</td>
         <td>Africa</td>
     </tr>
     <tr>
