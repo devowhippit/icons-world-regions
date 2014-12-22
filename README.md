@@ -15,3 +15,7 @@ Preview                                                         | Region
 ![](png/wr.scaled_oceana.png?raw=true "")                       | Oceana
 ![](png/wr.scaled_pacific.png?raw=true "")                      | Pacific
 ![](png/wr.scaled_south_america.png?raw=true "")                | South America
+
+Source
+------
+[Source](http://www.amcharts.com/svg-maps/?map=world "AmCharts Free SVG Maps").
