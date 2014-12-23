@@ -12,7 +12,7 @@ Preview                                                         | Region
 ![](png/wr.scaled_europe.png?raw=true "")                       | Europe
 ![](png/wr.scaled_middle_east_and_north_africa.png?raw=true "") | Middle East and North Africa
 ![](png/wr.scaled_north_america.png?raw=true "")                | North America
-![](png/wr.scaled_oceana.png?raw=true "")                       | Oceana
+![](png/wr.scaled_oceania.png?raw=true "")                      | Oceania
 ![](png/wr.scaled_pacific.png?raw=true "")                      | Pacific
 ![](png/wr.scaled_south_america.png?raw=true "")                | South America
 
